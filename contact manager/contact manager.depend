@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1647186867 source:d:\c++ with el desoky\oop 1\contact manager\main.cpp
+	<iostream>
+	"contacts.h"
+
+1647186867 d:\c++ with el desoky\oop 1\contact manager\include\contacts.h
+	"user.h"
+	<string>
+
+1647186867 d:\c++ with el desoky\oop 1\contact manager\include\user.h
+	<ctime>
+	<string>
+	<iostream>
+	"phone.h"
+	"email.h"
+	"address.h"
+
+1647186867 d:\c++ with el desoky\oop 1\contact manager\include\phone.h
+	<string>
+	<iostream>
+
+1647186867 d:\c++ with el desoky\oop 1\contact manager\include\email.h
+	<string>
+	<iostream>
+
+1647186867 d:\c++ with el desoky\oop 1\contact manager\include\address.h
+	<string>
+	<iostream>
+
+1647186867 source:d:\c++ with el desoky\oop 1\contact manager\src\address.cpp
+	"address.h"
+
+1647186867 source:d:\c++ with el desoky\oop 1\contact manager\src\contacts.cpp
+	"contacts.h"
+
+1647186867 source:d:\c++ with el desoky\oop 1\contact manager\src\email.cpp
+	"email.h"
+
+1647186867 source:d:\c++ with el desoky\oop 1\contact manager\src\phone.cpp
+	"phone.h"
+
+1647186867 source:d:\c++ with el desoky\oop 1\contact manager\src\user.cpp
+	"user.h"
+
